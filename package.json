@@ -1,0 +1,19 @@
+{
+  "name": "assignment8-multisig",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "chai": "^6.2.2",
+    "ethers": "^5.8.0",
+    "hardhat": "^2.22.15",
+    "mocha": "^11.7.5"
+  }
+}
